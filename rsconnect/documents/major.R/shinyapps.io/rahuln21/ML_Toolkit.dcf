@@ -1,0 +1,13 @@
+name: ML_Toolkit
+title: ML_Toolkit
+username:
+account: rahuln21
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2087153
+bundleId: 2991917
+url: https://rahuln21.shinyapps.io/ML_Toolkit/
+when: 1586435413.87225
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Prediction.csv|Salary_Data.csv|Test.csv|Training.csv|project web page

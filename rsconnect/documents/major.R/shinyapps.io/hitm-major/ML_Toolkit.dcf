@@ -1,0 +1,13 @@
+name: ML_Toolkit
+title: ML_Toolkit
+username:
+account: hitm-major
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2340373
+bundleId: 3177547
+url: https://hitm-major.shinyapps.io/ML_Toolkit/
+when: 1590127925.37481
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Prediction.csv|Salary_Data.csv|Test.csv|Training.csv|project web page|Screenshots
